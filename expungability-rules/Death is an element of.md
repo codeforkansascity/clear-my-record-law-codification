@@ -5,7 +5,7 @@
 610.140.2(4) Any felony offense where death is an element of the offense
 
 
-## Plan Speak
+## Plain Speak
 
 ## Training
 
