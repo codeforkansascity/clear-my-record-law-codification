@@ -1,4 +1,4 @@
-# Any felony offense where death is an element of the offense
+# 2(4) Any felony offense where death is an element of the offense
 
 ## Law
 
