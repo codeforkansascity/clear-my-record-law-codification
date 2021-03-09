@@ -39,8 +39,8 @@ When displaying a statute that is not elagible
 
 Flag has the following options:
 
-* Offince requires sex_offender registeation
-* Offince does not requires_sex_offender registration
+* Offince requires sex offender registeation
+* Offince does not requires sex offender registration
 * Not determined
 
 How to initalize?
