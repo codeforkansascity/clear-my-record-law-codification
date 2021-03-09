@@ -4,6 +4,7 @@ We will look at the Charge Type & Class to determine how the coniction was clasi
 
 ## Data Source
 
+other sources- Casenet
 MSHP - is the best source of what is charged.
 [PLEASE VERIFY]
 
