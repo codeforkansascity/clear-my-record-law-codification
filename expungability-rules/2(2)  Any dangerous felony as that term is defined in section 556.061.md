@@ -22,10 +22,6 @@ Assumptions:
 
 * This applies to the charge and does not disqualify the case.
   
-Senario:
-
-What happens if they "Down Grade" to a M?
-
 
 ## UX
 
