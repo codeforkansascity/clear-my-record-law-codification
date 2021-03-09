@@ -54,6 +54,7 @@ How to maintain?
 
 1. Have someone watch the changes in law
 2. Have lawyers look for errors (sanity check)
+3. Will need to be maintained more frequently then some other elements.
 
 ## Logic
 
