@@ -25,6 +25,8 @@ Is the statue a kidnapping. any in  (565.130, .....)?
        
        
 ## Pattern
+assult and domestic assult is generaly in this range -565.050, 565.052, 565.054, 565.056, 565.072, 565.073, 565.074, 565.076
+search for assault for cases not in that range, for instance assult on a police animal.
 
 If statute is a YYY
 and charges.conviction_charge_type is a WWW
