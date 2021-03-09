@@ -18,7 +18,7 @@
 
 We neet to know:
 
-1. Does the offince require registration as a sex offender.
+1. Does the offince requires registration as a sex offender.
 
 Assumptions:
 
@@ -31,16 +31,16 @@ When displaying a statute that is not elagible
 
 ## Database
 
-* The Offince requires_registration as a sex offended.
-   * ADD `statute.requires_registration`
+* The Offince requires_sex_offender as a sex offended.
+   * ADD `statute.requires_sex_offender`
 
 
-### Add `statues.dangerous_felony` flag
+### Add `statues.requires_sex_offender` flag
 
 Flag has the following options:
 
-* Offince requires registration
-* Offince does not requires registration
+* Offince requires sex_offender registeation
+* Offince does not requires_sex_offender registration
 * Not determined
 
 How to initalize?
@@ -56,7 +56,7 @@ How to maintain?
 ## Logic
 
 ```
-if charges.requires_registration == True
+if charges.requires_sex_offender == True
 Then
    Charge cannot be expunged
 ```
