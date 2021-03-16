@@ -1,0 +1,4 @@
+for each case
+    case.errors = hasErrors(case)
+    for each case.charge
+         case.charge.errors = hasCaseErrors(case,charge)
