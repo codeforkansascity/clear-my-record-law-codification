@@ -2,7 +2,7 @@
 
 #### Discussion
 1. Are these Organizations?
-2. *remove recoreds* what is the correct term?
+2. *remove records* what is the correct term?
 
 ## Status - Draft, needs review,
 
