@@ -1,5 +1,9 @@
 # Service
 
+#### Discussion
+1. Are these Organizations?
+2. *remove recoreds* what is the correct term?
+
 ## Status - Draft, needs review,
 
 Organizations that need to be notified if expunged to *remove records. (Paul)*
