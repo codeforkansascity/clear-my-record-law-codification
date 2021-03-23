@@ -2,9 +2,27 @@
 
 ## Status - Draft, needs review,
 
-Organizations that need to be notified if expunged to remove records. (Paul)
+Organizations that need to be notified if expunged to *remove records. (Paul)*
 
-## List of
+## List to Always Include
+
+### MISSOURI DEPARTMENT OF REVENUE
+301 W. High Street, Room 670
+P.O. Box 475
+Jefferson City, Missouri 65105-0475,
+
+### MISSOURI STATE HIGHWAY PATROL
+Records Repository
+1510 East Elm Street
+Jefferson City, Missouri 65101,
+
+### MISSOURI DEPARTMENT OF CORRECTIONS
+2729 Plaza Drive
+P.O. Box 236
+Jefferson City, MO 65102,
+
+
+
 
 ### FBI & Missouri State Central Repository
 
