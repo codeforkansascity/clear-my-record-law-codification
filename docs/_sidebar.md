@@ -19,6 +19,7 @@
   - [2(11) Ein 571.030 except](rules/2.11_In_571.030_except.md)
 - [Service](service.md)
 - Database
+  - [Overview](database/overview.md)
   - [Conviction Charge Type](database/charges.conviction_charge_type.md)
 - [Glossary](glossary.md)  
   
