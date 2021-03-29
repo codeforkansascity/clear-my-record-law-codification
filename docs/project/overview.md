@@ -1,6 +1,6 @@
 # Overview
 
-A place to put our documentation.....
+Currently a place for software developers, coders, UX, UI, users to put notes and discissions.
 
 ### Things to add
 
