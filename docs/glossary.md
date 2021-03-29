@@ -62,9 +62,15 @@ From Criminal History Background Check Symposium Reference Manual, June 2008, Ap
 
 - **Final disposition** the formal conclusion of a criminal proceeding at whatever stage it occurs in the criminal justice system;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
 
+- **Law** any State Statute or Municipal Ordinance.  From C4KC
+
 - **Missouri charge code** a unique number assigned by the office of state courts administrator to an offense for tracking and grouping offenses.  Beginning January 1, 2005, the complete charge code shall consist of digits assigned by the office of state courts administrator, the two-digit national crime information center modifiers and a single digit designating attempt, accessory, or conspiracy.  The only exception to the January 1, 2005, date shall be the courts that are not using the statewide court automation case management pursuant to section 476.055; the effective date will be as soon thereafter as economically feasible for all other courts;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
 
+- **Municipal Ordinance**
+
 - **State offense cycle number** a unique number, supplied by or approved by the Missouri state highway patrol, on the state criminal fingerprint card.  The offense cycle number, OCN, is used to link the identity of a person, through unique biometric identification, to one or many offenses for which the person is arrested or charged.  The OCN will be used to track an offense incident from the date of arrest to the final disposition when the offender exits from the criminal justice system;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
+- **State Statute**
 
 - **Unique biometric identification** automated methods of recognizing and identifying an individual based on a physiological characteristic.  Biometric identification methods may include but are not limited to facial recognition, fingerprints, palm prints, hand geometry, iris recognition, and retinal scan.  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
 
