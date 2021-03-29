@@ -2,8 +2,9 @@
 
 We are going to try to use this as a place to document ....
 
-We are thinking of using [docsify](https://docsify.js.org/#/?id=docsify) to publish this as a web site.
+We are trying this out in  [docsify](https://docsify.js.org/#/?id=docsify) to publish this as a web site.
 
+If you have worked on this before, all of the files have been moved to the `docs` folder.
 
 ### Developer Notes
 
