@@ -1,3 +1,70 @@
+# Glossary & Acronyms
+
+
+## Acronyms
+
+From Criminal History Background Check Symposium Reference Manual, June 2008, Appendix 1
+
+- AFIS  -  Automated Fingerprint Identification System
+- AIU  -  Access Integrity Unit
+- CFR  -  Code of Federal Regulation
+- CHRI  -  Criminal History Record Information
+- CJIS  -  Criminal Justice Information Services
+- CRID  -  Criminal Records and Identification Division
+- DOC  -  Department of Corrections
+- FBI  -  Federal Bureau of Investigation
+- FOIA  -  Freedom of Information Act
+- GHQ  -  General Headquarters
+- IAFIS  -  Integrated Automated Fingerprint Identification System
+- IBT  -  Integrated Biometric Technology
+- III  -  Interstate Identification Index
+- ISD  -  Information Systems Division
+- JIS  -  Justice Information System
+- MCRR  -  Missouri Criminal Records Repository
+- MSHP  -  Missouri State Highway Patrol
+- MOAPS  -  Missouri Applicant Processing Services
+- Criminal History Background Checks
+- MOVECHS  -  Missouri Volunteer and Employee Criminal History Service
+- MULES  -  Missouri Uniform Law Enforcement System
+- NCIC  -  National Crime Information Center
+- NCPA  -  National Child Protection Act
+- NGE  -  Non - Governmental Entity
+- NICS  -  National Instant Criminal Background Check System
+- NIST  -  National Institute of Standards and Technology
+- OCA  -  Originating Case Agency
+- OCN  -  Offense Cycle Number
+- ORI  -  Originating Agency Routing Identifier
+- OSCA  -  Office of State Courts Administrator
+- PCR  -  Program Compliance Review
+- POC  -  Point of Contact
+- QE  -  Qualified Entity
+- RAP  -  Record of Arrest and Prosecution
+- RSMo  -  Revised Statutes of Missouri
+- SES  -  Suspended Execution of Sentence
+- SID  -  State Identification Number
+- [SIS  -  Suspended Imposition of Sentence](glossary/SIS.md)
+- TCN  -  Transaction Control Number (FBI)
+- USC  -  United States Code
+- VCA  -  Volunteers for Children Act 
+
+
 # Glossary
 
-- [Suspended Imposition of Sentence (SIS)](glossary/SIS.md)
+- **Administration of criminal justice** performance of any of the following activities:  detection, apprehension, detention, pretrial release, post-trial release, prosecution, adjudication, correctional supervision, or rehabilitation of accused persons or criminal offenders.  The administration of criminal justice shall include the screening of employees or applicants seeking employment with criminal justice agencies, criminal identification activities, and the collection, storage, and dissemination of criminal history information, including fingerprint searches, photographs, and other unique biometric identification;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
+- **Central repository** the division within the Missouri state highway patrol responsible for compiling and disseminating complete and accurate criminal history records and statistics;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
+- **Committee** criminal records and justice information advisory committee;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
+- **Comparable ordinance violation** a violation of an ordinance having all the essential elements of a statutory felony or a class A misdemeanor;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
+- **Criminal history record information** information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, informations, or other formal criminal charges, and any disposition arising therefrom, sentencing, correctional supervision, and release;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
+- **Final disposition** the formal conclusion of a criminal proceeding at whatever stage it occurs in the criminal justice system;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
+- **Missouri charge code** a unique number assigned by the office of state courts administrator to an offense for tracking and grouping offenses.  Beginning January 1, 2005, the complete charge code shall consist of digits assigned by the office of state courts administrator, the two-digit national crime information center modifiers and a single digit designating attempt, accessory, or conspiracy.  The only exception to the January 1, 2005, date shall be the courts that are not using the statewide court automation case management pursuant to section 476.055; the effective date will be as soon thereafter as economically feasible for all other courts;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
+- **State offense cycle number** a unique number, supplied by or approved by the Missouri state highway patrol, on the state criminal fingerprint card.  The offense cycle number, OCN, is used to link the identity of a person, through unique biometric identification, to one or many offenses for which the person is arrested or charged.  The OCN will be used to track an offense incident from the date of arrest to the final disposition when the offender exits from the criminal justice system;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
+- **Unique biometric identification** automated methods of recognizing and identifying an individual based on a physiological characteristic.  Biometric identification methods may include but are not limited to facial recognition, fingerprints, palm prints, hand geometry, iris recognition, and retinal scan.  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
