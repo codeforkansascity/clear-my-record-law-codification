@@ -9,6 +9,7 @@ In the case of the Clinic App and the conviction was a felony:
 ```
 NOT expungable 568.045.  Endangering the welfare of a child in the first degree, penalties.   
    Conviction is a felony and death is a element of 610.140.2(4)
+   
 ```
 
 For someone researching a statute
