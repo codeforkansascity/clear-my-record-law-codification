@@ -4,6 +4,7 @@
 * assult
 * domestic assault, “if the act involves a domestic victim, as the term "domestic victim" is defined under section 565.002,”
 * "Domestic victim", a household or family member as the term "family" or "household member" is defined in section 455.010, including any child who is a member of the household or family;
+* "Family" or "household member", spouses, former spouses, any person related by blood or marriage, persons who are presently residing together or have resided together in the past, any person who is or has been in a continuing social relationship of a romantic or intimate nature with the victim, and anyone who has a child in common regardless of whether they have been married or have resided together at any time;
 
 ## Acronyms
 
