@@ -11,6 +11,7 @@ NOT expungable 568.045.  Endangering the welfare of a child in the first degre
    Conviction is a felony and death is a element of 610.140.2(4)
    
 ```
+Scott did this
 
 For someone researching a statute
 ```
