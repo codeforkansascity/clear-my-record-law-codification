@@ -24,7 +24,7 @@ For someone researching a statute
 | Exception | Based On | Note |
 | --- | --- | --- |
 | 2.1 Class A Felony | conviction level |
-| 2.2 DangerousFelony in 556.061 | offense number; conviction level | need to tag dangerous felony statutes |
+| 2.2 DangerousFelony in 556.061 | offense number; conviction level | need to tag dangerous felony statutes.  Will need additional information for some (One  example are laws that are “intoxication-related traffic offense” or “intoxication-related boating offense” we will need to determine if the applicant is a Habitual offende. |
 | 2.3 Registration Sex Offender | offense number; *possibly victims age*  | need to tag sex offender statutes |
 | 2.4 Death is an element of | offense number; conviction level | need to tag statutes where death is an element of |
 | 2.5 Any felony misdemeanor assault kidnapping ... | offense number, conviction level  | need to tag statutes that are misdemeanor or felony offense of domestic assault; or felony offense of kidnapping|
