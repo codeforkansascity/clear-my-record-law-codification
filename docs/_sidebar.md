@@ -17,6 +17,7 @@
   - [2(9) Ordinance](rules/2.9_Ordinance_that_is_equivalent.md)
   - [2(10) Violation State, County, Municipal](rules/2.10_Violation_state_county_municipal_regulating.md)
   - [2(11) Ein 571.030 except](rules/2.11_In_571.030_except.md)
+  - [Keeping Rules Updated](rules/update.md)
 - [Service](service.md)
 - [Testing](testing.md)
 - Database
