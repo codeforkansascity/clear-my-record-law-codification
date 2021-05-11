@@ -3,4 +3,6 @@
 
 ## Conversations - Can we use a Wiki
 
-Wikipedia is open source.  If you make a comment on the talk page it can post it to a list serv.
+Wikipedia is the primary example,it is powered by the open source software package mediawiki. Can be configured to push emails to be forarded to a listserv of changes.
+
+The most popular minimal alternative seems to be dokuwiki.
