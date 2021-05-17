@@ -16,7 +16,9 @@ We would like the application to report back why something is not eligible.
 
 ## How to identify 
 
-Can we use the [The 2020-2021 MISSOURI CHARGE CODE MANUAL](https://www.mshp.dps.missouri.gov/CJ08Client/Home/ChargeCode)
+Can we use the [The 2020-2021 MISSOURI CHARGE CODE MANUAL](https://www.mshp.dps.missouri.gov/CJ08Client/Home/ChargeCode).
+
+Note: The API doc is not good but I found that https://www.mshp.dps.mo.gov/cj08service//api/chargeCodes/xml is an enpoint
 
 
 ## How to mark charges that are not eligible?
