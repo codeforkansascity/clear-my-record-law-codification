@@ -17,6 +17,12 @@ To to this we need
    * Mark it as Not expungeable, Possibly expungeable or Call a Lawyer.
 5. For any statute that is expungeable, mark it expungable
 
+# How to maintain?
+
+1. Have someone watch the changes in law
+2. Have lawyers look for errors (sanity check)
+3. Will need to be maintained more frequently then some other elements.
+
 # Questions
 
 Can a single charge disqualify all other charges in a case?  See Dean Suni.
