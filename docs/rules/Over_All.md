@@ -15,17 +15,20 @@ To to this we need
    * Some drug crimes were reclasifited into 579 from 195 and the 210's
    * Trafficde 301 to 304 and 307
    * Administrative rules about hunting, polution, ... and some have criminal
-3. A list of sections in 610.140 that disqualifies a statute from being expunged and any conditions.
-4. For each statute in 2, 3, 4
+3. A list of sections in 610.140 that disqualifies a statute from being expunged and any conditions.  We have this but still need to be filled in for why or what the attorny or DYI needs to do.
+4. For each statute in 2, 3, 4 from abov
    * Match it with section of 610.140 that disqualifies it
    * Mark it as Not expungeable, Possibly expungeable or Call a Lawyer.
 5. For any statute that is expungeable, mark it expungable
 
 # How to maintain?
 
-1. Have someone watch the changes in law
-2. Have lawyers look for errors (sanity check)
-3. Will need to be maintained more frequently then some other elements.
+1. Have someone watch the changes in law 
+   * Empower MO is folloging this
+3. Have lawyers look for errors (sanity check)
+4. Will need to be maintained more frequently then some other elements.
+
+
 
 # Questions
 
