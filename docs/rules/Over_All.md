@@ -11,6 +11,10 @@ One of the primary questions asked of this system is, is a given statute expunge
 To to this we need
 1. A list of all statutes that our clients would possibly check.
    * Mark statutes Undetermined
+   * Criminal Code 556 and offences start at 564 and goto 579
+   * Some drug crimes were reclasifited into 579 from 195 and the 210's
+   * Trafficde 301 to 304 and 307
+   * Administrative rules about hunting, polution, ... and some have criminal
 3. A list of sections in 610.140 that disqualifies a statute from being expunged and any conditions.
 4. For each statute in 2, 3, 4
    * Match it with section of 610.140 that disqualifies it
