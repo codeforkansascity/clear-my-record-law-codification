@@ -1,6 +1,12 @@
 # Strategy
 
-One of the primary questions asked of this system is, is a given statute expungeable.  We have several answers:
+One of the primary questions asked of this system is, is a given statute expungeable. 
+The law give a list of
+* exclusions or
+* exceptions
+that are used to detemine if a statute can not be expunged.
+
+We have several answers:
 
 1. Yes it is expungeable
 2. No it is not, and we would like to answer why it is not.
