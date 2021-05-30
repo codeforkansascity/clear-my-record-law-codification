@@ -4,9 +4,10 @@ One of the primary questions asked of this system is, is a given statute expunge
 The law give a list of
 * exclusions or
 * exceptions
+
 that are used to detemine if a statute can not be expunged.
 
-We have several answers:
+We have several answers or categories :
 
 1. Yes it is expungeable
 2. No it is not, and we would like to answer why it is not.
