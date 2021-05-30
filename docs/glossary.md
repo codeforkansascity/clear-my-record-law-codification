@@ -73,6 +73,8 @@ From Criminal History Background Check Symposium Reference Manual, June 2008, Ap
 
 - **Municipal Ordinance**
 
+- **Offense** is a violation of a statute
+
 - **State offense cycle number** a unique number, supplied by or approved by the Missouri state highway patrol, on the state criminal fingerprint card.  The offense cycle number, OCN, is used to link the identity of a person, through unique biometric identification, to one or many offenses for which the person is arrested or charged.  The OCN will be used to track an offense incident from the date of arrest to the final disposition when the offender exits from the criminal justice system;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
 
 - **State Statute**
