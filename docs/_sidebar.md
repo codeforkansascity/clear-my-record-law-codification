@@ -15,7 +15,7 @@
   - [2(7) Eligible under 577.054 or 610.130.](rules/2.7_Eligible_under_577.054_or_610.130.md)
   - [2(8) Intoxication Related](rules/2.8_Intoxication-related_traffic_or_boating_577.001.md)
   - [2(9) Ordinance](rules/2.9_Ordinance_that_is_equivalent.md)
-  - [2(10) CDL Violation State, County, Municipal](rules/2.10_Violation_state_county_municipal_regulating.md)
+  - [2(10) (CDL) Violation State, County, Municipal](rules/2.10_Violation_state_county_municipal_regulating.md)
   - [2(11) Ein 571.030 except](rules/2.11_In_571.030_except.md)
   - [Keeping Rules Updated](rules/update.md)
 - [Service](service.md)
