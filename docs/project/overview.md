@@ -38,6 +38,27 @@ For someone researching a statute
 ### The Statute
 
 [https://www.revisor.mo.gov/main/OneSection.aspx?section=610.140&bid=47676&hl=](https://www.revisor.mo.gov/main/OneSection.aspx?section=610.140&bid=47676&hl=)
+
+#### Changes to go into efect as of Aug, 28, 2021
+
+Bill Update: SB-53
+Signed: Summary https://www.senate.mo.gov/21info/BTS_Web/Bill.aspx?SessionType=R&BillID=54105455
+
+Bill: page 160 https://www.senate.mo.gov/21info/pdf-bill/tat/SB53.pdf
+
+![image](https://user-images.githubusercontent.com/447024/126238705-c9381186-924e-4ac0-8e61-b4965c30332b.png)
+
+![image](https://user-images.githubusercontent.com/447024/126238727-b5508202-2674-4866-b8ec-9130d4929d76.png)
+
+Still question if time of conviction (found guilty) or completion (satisfaction of obligations) of sentence.
+
+Need to create a time line.
+
+Next Steps as of August 28th, 2021:
+Make 301, 302, 303 non blocking.
+Add 571.030 in subsection 11.
+
+
 ### Things to add
 
 * [Criminal History Background Check Symposium Reference Manual ](http://www.mshp.dps.mo.gov/MSHPWeb/PatrolDivisions/CRID/documents/symposiumReferenceManual.pdf) Has data sources and process.
