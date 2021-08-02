@@ -25,3 +25,8 @@ The following three downloads are all documented in [Charge Code File Layout](ht
 
 *  NCIC Modifiers CSV 2021-05-03
 
+# NICI Codes
+
+[NCIC Code Manual as of
+March 31, 2021](https://wilenet.widoj.gov/sites/default/files/public_files-2021-04/ncic_code_manual_mar_31_2021.pdf)
+See chapter: Uniform Offense Data Codes starting on page 402.
