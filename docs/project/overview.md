@@ -28,7 +28,7 @@ For someone researching a statute
 | 2.3 Registration Sex Offender | offense number; *possibly victims age*  | need to tag sex offender statutes |
 | 2.4 Death is an element of | offense number; conviction level | need to tag statutes where death is an element of |
 | 2.5 Any felony misdemeanor assault kidnapping ... | offense number, conviction level  | need to tag statutes that are misdemeanor or felony offense of domestic assault; or felony offense of kidnapping|
-| 2.6 Listed Offense | offense number | need to mark these statutes as NOT Expungable
+| 2.6 Listed Offense | offense number | These are expunged under 610.130;
 | 2.7 Alcohol-related driving offenses| we are not processing |
 | 2.8 Intoxication-related traffic or boating 577.001 | offense number | need to tag statutes that are traffic or boating offense as defined in section 577.001 or operating an aircraft with an excessive blood alcohol content or while in an intoxicated condition *(can we need to mark these statutes as NOT Expungable)*|
 | 2.9 Ordinance that is equivalent | offense number | need to relate ordinances to state offenses | 
