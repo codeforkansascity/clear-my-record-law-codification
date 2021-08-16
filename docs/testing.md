@@ -1,4 +1,4 @@
-# Thinks to test for
+# Things to test for
 
 * A 304 and/or 307 at 2 and 20 years
 
