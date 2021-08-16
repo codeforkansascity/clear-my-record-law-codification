@@ -127,6 +127,11 @@ There is a charge code for each **_part of_** the statute.
 
 ## Multiple Effective Dates
 
+From Revisor:
+
+(L. 1994 S.B. 590, A.L. 1999 H.B. 603, et al. merged with S.B. 19)
+Enacted 1994,  Amended in 1999
+
 ![image](https://user-images.githubusercontent.com/447024/129509023-df258d74-b0d5-4a6f-a44d-9c57e38ddfb8.png)
 
 
