@@ -65,6 +65,8 @@ From Criminal History Background Check Symposium Reference Manual, June 2008, Ap
 
 - **Criminal history record information** information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, informations, or other formal criminal charges, and any disposition arising therefrom, sentencing, correctional supervision, and release;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
 
+- The **disposition** on a **criminal** record is the current status or final outcome of an arrest or prosecution. Common dispositions are: Convicted: means you have plead or been found guilty by a court of law. Acquitted: means you have been found not guilty by a court of law in a criminal trial. (Staci Pratt email 13-Jul-2021 to paulb@savagesoft.com)
+
 - **Final disposition** the formal conclusion of a criminal proceeding at whatever stage it occurs in the criminal justice system;  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
 
 - **Law** any State Statute or Municipal Ordinance.  From C4KC
