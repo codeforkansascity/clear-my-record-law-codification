@@ -45,6 +45,11 @@ See chapter: Uniform Offense Data Codes starting on page 402.
 * MSHP has a Charge Code.  We need to see if they plead to a reduced sentence if the Charge Code changes between arrest and court action.
 * Add Charge code to Law Tracker
 
+* Description
+There is some "data" in the description of the Charge Code Manual that may help us determine eligibility on some of the other exceptions.  If L/E is Law Enforcement, See p90 of [2021 Charge Code Manual](https://www.mshp.dps.missouri.gov/MSHPWeb/PatrolDivisions/CRID/documents/August2021ChargeCodeManual.pdf) 
+* 565.027-002Y202009__._.    INVOLUNTARY MANSLAUGHTER - 2ND DEGREE - L/E OR RELATIVE
+* 565.052-004Y202013__._.    ASSAULT - 2ND DEGREE - SPECIAL VICTIM
+
 
 **_The following has not been verified_**
 
