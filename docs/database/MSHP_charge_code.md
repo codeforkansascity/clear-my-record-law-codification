@@ -14,9 +14,12 @@ The primary document is the "Missouri Charge Code Manual"  August 28, 2020 - Au
 *  Ordinance Charge Code Structure
 
 ## Versions
-2019-2020 was the first version we processed.
 
-The 2020-2021 added `legacy_charge_code` field to `ChargeCodeCSV2021-8-5.csv`.
+A new version is published on the 28th of August of each year.
+
+2020-2021 was the first version we processed.
+
+The 2021-2022 added `legacy_charge_code` field to `ChargeCodeCSV2021-8-5.csv`.
 
 
 ### DownLoads (See upper right-hand side of the website)
