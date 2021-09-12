@@ -13,6 +13,12 @@ The primary document is the "Missouri Charge Code Manual"  August 28, 2020 - Au
 *  Section II: NCIC Categories and Modifiers
 *  Ordinance Charge Code Structure
 
+## Versions
+2019-2020 was the first version we processed.
+
+The 2020-2021 added `legacy_charge_code` field to `ChargeCodeCSV2021-8-5.csv`.
+
+
 ### DownLoads (See upper right-hand side of the website)
 
 The following three downloads are all documented in [Charge Code File Layout](https://www.mshp.dps.missouri.gov/MSHPWeb/PatrolDivisions/CRID/documents/ChargeCodeFileLayout0882019.pdf)
