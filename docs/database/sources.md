@@ -12,3 +12,8 @@
 * Regis
 * MSHP
 * ...
+
+## Other
+
+* [CSV with law number, title, Publication Page](https://revisor.mo.gov/main/Info.aspx)  Click to download a list of active sections with headnotes(tab delimited))
+
