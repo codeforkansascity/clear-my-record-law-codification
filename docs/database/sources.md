@@ -17,3 +17,6 @@
 
 * [CSV with law number, title, Publication Page](https://revisor.mo.gov/main/Info.aspx)  Click to download a list of active sections with headnotes(tab delimited))
 
+* [MO Courts Rules & Resources](https://www.courts.mo.gov/page.jsp?id=103124)
+    * [Missouri State Criminal Charge Codes](https://www.courts.mo.gov/page.jsp?id=270)
+
