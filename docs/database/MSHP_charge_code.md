@@ -152,7 +152,7 @@ Enacted 1994,  Amended in 1999
 
 
 ## Other
-```
+
 
 | effective_date | charge_code                  | description                                                                                                                                                                                     | class | dna | sor | roc |
 | -------------- | ---------------------------- | --- | ----- | --- | --- | --- |
@@ -188,7 +188,7 @@ Enacted 1994,  Amended in 1999
 | 571.030 | 571.030-018Y202052    ._     | UNLAWFUL USE OF WEAPON - SUBSECTION 10 - CARRIES U | M / A |
 | 571.030 | 571.030-019Y202052    ._     | UNLAWFUL USE OF WEAPON - SUBSECTION 11 - POSSESS W | F / E |
 | 571.030 | 571.030-020Y202052    ._     | UNLAWFUL USE OF WEAPON - SUBSECTION 9 - SHOOT AT/F | F / B |
-```
+
 
 
   
