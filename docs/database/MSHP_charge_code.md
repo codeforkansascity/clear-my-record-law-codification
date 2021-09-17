@@ -70,7 +70,7 @@ From Charge Code Manual 2021
 | Number of Laws that are F / A for any Effective Date | 37         |
 | Number of Laws any Felony for any Effective Date     | 609        |
 
-## Chapters in the three files that have the Charge Code field
+## Chapters in the three files that have the Charge Code field that do not apear in the Charge Code Manule
 
 | Chapter | Manual | Charge Code | NCIC Modifier | MO Revisor
 | ----------- |------- | ----------- | ------------- | ------
@@ -99,7 +99,7 @@ From Charge Code Manual 2021
 
 Does not correspond with MO Revisor Versions (Legislative Updates)
 
-### Desicription
+### Description
 There is a charge code for each **_part of_** the statute.
 
 
