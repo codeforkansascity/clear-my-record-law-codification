@@ -17,6 +17,8 @@
 
 * [CSV with law number, title, Publication Page](https://revisor.mo.gov/main/Info.aspx)  Click to download a list of active sections with headnotes(tab delimited))
 
+* [MSHP Web Service Page](https://www.mshp.dps.missouri.gov/CJ08Client/Home/WebService)
+
 ### Charge Codes
 
 * [MO Courts - Rules & Resources](https://www.courts.mo.gov/page.jsp?id=103124)
