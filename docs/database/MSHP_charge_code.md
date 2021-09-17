@@ -43,11 +43,8 @@ See chapter: Uniform Offense Data Codes starting on page 402.
 # Review of Charge Codes
 
 * Effective Date
-    * Does not correspond with MO Revisor Versions (Legislative Updates)
+    * Does not always correspond with MO Revisor Versions (Legislative Updates). [Need to document and example]
     * Is a part of the Charge Code allowing the charge code to go back into history
-
-* Charge code 
-    * has effective date’s year embedded in it.  571.030-007N202052
 
 
 * Do we have to go back into history, and if so in what situations?
