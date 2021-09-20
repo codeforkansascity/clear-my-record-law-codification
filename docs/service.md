@@ -6,7 +6,7 @@
 
 ## Status - Draft, needs review,
 
-Organizations that need to be notified if expunged to *remove records. (Paul)*
+When expunged organizations that need to be notified to *remove records. (Paul)*
 
 ## List to Always Include
 
