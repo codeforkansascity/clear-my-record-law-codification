@@ -1,5 +1,7 @@
 # Uniform Reporting Data Sources
 
+Debra Allen ini. FBI mandates use of NIBRS. UCR is no longer. 
+
 ## NIBRS
 
 * [MSHP CJIS NIBRS/MIBRS and Missouri Charge Code Manual website and subscription service.](https://www.mshp.dps.missouri.gov/CJ08Client)
