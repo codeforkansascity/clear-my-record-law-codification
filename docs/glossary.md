@@ -6,6 +6,20 @@
 * "Domestic victim", a household or family member as the term "family" or "household member" is defined in section 455.010, including any child who is a member of the household or family;
 * "Family" or "household member", spouses, former spouses, any person related by blood or marriage, persons who are presently residing together or have resided together in the past, any person who is or has been in a continuing social relationship of a romantic or intimate nature with the victim, and anyone who has a child in common regardless of whether they have been married or have resided together at any time;
 
+## Review for canadets 
+* Chapter 557
+   * [577.001.  Chapter definitions](https://revisor.mo.gov/main/OneSection.aspx?section=577.001)
+   * [557.016.   Classification of offenses](https://revisor.mo.gov/main/OneSection.aspx?section=557.016&bid=29060&hl=557.016%u2044) Devnes Felonies, Misdeeanors, and Infractions
+   * [557.021.   Classification of offenses outside this code](https://revisor.mo.gov/main/OneSection.aspx?section=557.021&bid=48666&hl=557.021%u2044)
+* Chapger 556
+    * [556.061.  Code definitions](https://www.revisor.mo.gov/main/OneSection.aspx?section=556.061)  
+
+
+* [43.503.  Arrest, charge and disposition of misdemeanors and felonies to be sent to highway patrol — procedure for certain juveniles — duties of court clerks — certain departments to provide information to central repository](https://revisor.mo.gov/main/OneSection.aspx?section=43.503&bid=35728)
+* [610.130.  Alcohol-related driving offenses, expunged from records, when — procedures, effect — limitations](https://revisor.mo.gov/main/OneSection.aspx?section=610.130)
+* [302.010.  Definitions - MOTOR VEHICLES, WATERCRAFT AND AVIATION](https://revisor.mo.gov/main/OneSection.aspx?section=302.010)
+
+
 ## Acronyms
 
 From Criminal History Background Check Symposium Reference Manual, June 2008, Appendix 1
