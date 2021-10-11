@@ -21,6 +21,16 @@ A new version is published on the 28th of August of each year.
 
 The 2021-2022 added `legacy_charge_code` field to `ChargeCodeCSV2021-8-5.csv`.
 
+* From current to about 2010 the same format is used.
+   * Statute is embedded into the Charge Code
+   * SOR
+   * Sorted by Charge Code, no sections.
+* Starting 2010 or 2009 
+   * Statute is NOT embedded into the Chage Code, but a seperate field.
+   * Statue number goest from 5 characters to ?
+   * SOR
+   * Broken into section 
+
 
 ### DownLoads (See upper right-hand side of the website)
 
