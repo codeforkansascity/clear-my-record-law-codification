@@ -31,10 +31,15 @@ Repealers (list is incomplete)^M
 1.110   (Repealed L. 1978 H.B. 1634 § A)        1/2/1979^M
 
 198.041 (Transferred 1994; now 199.350)         8/28/1994^M
+202.240	(Repealed L. 1980 H.B. 1724 § 1)	8/13/1980
 202.250 (1969; Combined with 202.240)   8/28/1969^M
 ```
 
 
-Note "Transferred" and "Repealed" are not alwas at the beginning of the line.
+Note 
+* "Transferred" and "Repealed" are not alwas at the beginning of the line.
+* Repealed statutes are not in the list of active sections with headnotes.
+* Statutes that have been transferd are not in the list of active sections with headnotes.
+* 
 
 We have been using the term Superceded instead of Transfer"
