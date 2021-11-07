@@ -27,6 +27,7 @@
   - [MSHP Charge Codes](database/MSHP_charge_code.md)
   - [MSHP API](database/MSHP_API.md)
   - [Uniform Reporting](database/UniformReporting.md)
+  - [Loading](database/Loading.md)
 - Research
   - [195.211](research/192.211.md)
 - [Glossary](glossary.md)  
