@@ -40,6 +40,5 @@ Note
 * "Transferred" and "Repealed" are not alwas at the beginning of the line.
 * Repealed statutes are not in the list of active sections with headnotes.
 * Statutes that have been transferd are not in the list of active sections with headnotes.
-* 
 
 We have been using the term Superceded instead of Transfer"
