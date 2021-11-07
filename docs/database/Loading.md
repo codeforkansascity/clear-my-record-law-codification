@@ -42,3 +42,12 @@ Note
 * Statutes that have been transferd are not in the list of active sections with headnotes.
 
 We have been using the term Superceded instead of Transfer"
+
+## Charge Codes
+
+From [The 2021-2022 MISSOURI CHARGE CODE MANUAL](https://www.mshp.dps.missouri.gov/CJ08Client/Home/ChargeCode) page of MSHP
+
+![image](https://user-images.githubusercontent.com/447024/140666718-4a8a9dc4-1f0f-4707-9426-747593198567.png)
+
+
+
