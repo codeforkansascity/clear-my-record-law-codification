@@ -97,6 +97,11 @@ From Criminal History Background Check Symposium Reference Manual, June 2008, Ap
 
 - **Unique biometric identification** automated methods of recognizing and identifying an individual based on a physiological characteristic.  Biometric identification methods may include but are not limited to facial recognition, fingerprints, palm prints, hand geometry, iris recognition, and retinal scan.  From [43.500.  Definitions](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
 
+# Organizations
+
+- **Central repository** the division within the Missouri state highway patrol responsible for compiling and disseminating complete and accurate criminal history records and statistics;  From [43.500.  Definition](https://revisor.mo.gov/main/OneSection.aspx?section=43.500)
+
+
 # Technical
 
 - **Federated Query** SQL is a query across mulitiple databases.  Another example might be if we had a API to a govermental agency that we could ask "For John what are his expungable offenses" keeping us from having to have full data for John and a list of expungable offenses.
