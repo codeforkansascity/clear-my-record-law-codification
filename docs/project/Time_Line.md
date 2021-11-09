@@ -5,6 +5,8 @@
 ## 2016 - New Charge Code numbers take effet 25-Aug-2016.
 The new numbers are prefixed with the Mo Statute Number
 
+## 1974 Reorganization Act of 1974 - or - Concurrent Resolutions Having Force & Effect of Law
+
 ## 1979 - 1st Charge Code Manual called the "Missouri Offense Code Manual"
 
 ## 1967 - NCIC codes are created.
