@@ -13,6 +13,18 @@ The primary document is the "Missouri Charge Code Manual"  August 28, 2020 - Au
 *  Section II: NCIC Categories and Modifiers
 *  Ordinance Charge Code Structure
 
+## Issues
+
+### Ayyoub reports 579.050, I couldn’t see any charges. It should be F/E
+
+Research:
+Source was from an applicant in the Clinic App.
+
+It is in the revisor https://revisor.mo.gov/main/OneSection.aspx?section=579.050&bid=30225&hl= and looks like it is active.
+
+Was not found current charge manual https://www.mshp.dps.missouri.gov/MSHPWeb/PatrolDivisions/CRID/documents/CombinedChargeCodeManualNovember2021.pdf and the transfer and retired files.  Doicuments I looked at are on https://www.mshp.dps.missouri.gov/CJ08Client/Home/ChargeCode 
+ 
+
 ## Versions
 
 A new version is published on the 28th of August of each year.
