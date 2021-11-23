@@ -18,7 +18,7 @@ The primary document is the "Missouri Charge Code Manual"  August 28, 2020 - Au
 ### Ayyoub reports 579.050, I couldn’t see any charges. It should be F/E
 
 Research:
-Source was from an applicant in the Clinic App.
+Source was Scott Person's original lists of expungable and not expungable.
 
 It is in the revisor https://revisor.mo.gov/main/OneSection.aspx?section=579.050&bid=30225&hl= and looks like it is active.
 
