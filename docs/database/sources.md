@@ -24,3 +24,11 @@
 * [MO Courts - Rules & Resources](https://www.courts.mo.gov/page.jsp?id=103124)
     * [Missouri State Criminal Charge Codes](https://www.courts.mo.gov/page.jsp?id=270)
     
+    
+## How Charged
+
+Was discussed when trying to determain "Death"
+
+* MACH-CR 2d - Mo Approved Charges
+* MAI-CR 4th - Mo Approved Instructions - used as jury instructions
+
