@@ -23,6 +23,7 @@
 - [Testing](testing.md)
 - Database
   - [Overview](database/overview.md)
+  - [LoadProcess](database/Load_process.md)
   - [Conviction Charge Type](database/charges.conviction_charge_type.md)
   - [Sources](database/sources.md)
   - [MSHP Charge Codes](database/MSHP_charge_code.md)
