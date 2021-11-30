@@ -5,6 +5,9 @@
 ## 2016 - New Charge Code numbers take effet 25-Aug-2016.
 The new numbers are prefixed with the Mo Statute Number
 
+## 2009 - Charge Code Manual add SOR field
+SOR indicates if the person needs to register on the Sex Offender Registry.
+
 ## 1995 - Sex Offender Registry was established 
 In January of 1995, the Missouri Sex Offender Registry was created as a way for the general public to gain access to available information about convicted sexual offenders.  From [The Hammer Law Firm](https://www.thehammerlawfirm.com/criminal-defense/sex-crimes/sex-offender-registry/)
 
