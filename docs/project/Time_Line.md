@@ -1,4 +1,6 @@
-# Time LIne
+# Time Line
+
+Dates that impact expungements including data avaliability.
 
 ## 2018 - Re-classification (of statutes?)
 
