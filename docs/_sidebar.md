@@ -23,7 +23,7 @@
 - [Testing](testing.md)
 - Database
   - [Overview](database/overview.md)
-  - [Create Innital Laws](database/creating_inital_laws.md)
+  - [Create Inital Laws](database/creating_inital_laws.md)
   - [Conviction Charge Type](database/charges.conviction_charge_type.md)
   - [Sources](database/sources.md)
   - [MSHP Charge Codes](database/MSHP_charge_code.md)
