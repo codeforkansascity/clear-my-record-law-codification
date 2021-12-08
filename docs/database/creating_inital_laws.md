@@ -6,11 +6,13 @@ Primary data sources are Change Code Manuel and Missouri Revisor.
 
 This is data that is not updated.
 
-## Create Exceptions
+## Create Exceptions for Statute 610.140
 
 Source: manually created data taken from the statute.
 
 Table: exceptions
+
+CMD: app-load:make-statute-exceptions
 
 ## Import Missouri Laws**
 
