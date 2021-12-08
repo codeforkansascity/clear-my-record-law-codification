@@ -1,6 +1,7 @@
 # Glossary & Acronyms
 
 ## Need to add
+* [Mo Revisor Definitions](https://revisor.mo.gov/main/secdef.aspx) from bottom of any page under Other Information -> Definitions.
 * assult
 * domestic assault, “if the act involves a domestic victim, as the term "domestic victim" is defined under section 565.002,”
 * "Domestic victim", a household or family member as the term "family" or "household member" is defined in section 455.010, including any child who is a member of the household or family;
