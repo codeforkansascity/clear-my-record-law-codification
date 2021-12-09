@@ -11,7 +11,7 @@ Suggestions can be emailed to captain@codeforkc.org
 
 ### 2018 - Re-classification (of statutes?)
 
-### 2016 - New Charge Code numbers take effet 25-Aug-2016.
+### 2016 - New longer Charge Code numbers take effect 25-Aug-2016.
 The new numbers are prefixed with the Mo Statute Number
 
 ### 2009 - Charge Code Manual add SOR field
