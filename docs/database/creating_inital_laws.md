@@ -29,7 +29,9 @@ CMD: records added in migration
 
 Source: Missouri Revisor 
 
-Table: ImportedMoRevisorActiveSection
+Table: `import_mo_revisor_active_sections`
+
+CMD: app:import-mo-revisor-active-sections
 
 ## Create Missouri Chapters##
 
@@ -39,17 +41,17 @@ Table: LawChapter
 
 ## Import 2020 and 2021 Charge Codes
 
-There are two different programs to import since the format is different.
-
 Source: Charge Code Manule (top)
 
 Table: ImportedMshpChargeCodeManual
+
+CMD: `app:import-charge-code-files`
 
 ## Import 2020 and 2021 Charge Codes Ordances
 
 Source: Charge Code Manule (bottom)
 
-Table: ImportedMshpChargeCodeManual
+Table: `import_mshp_charge_code_manuals`
 
 ## Import Transferred Charge Codes
 
