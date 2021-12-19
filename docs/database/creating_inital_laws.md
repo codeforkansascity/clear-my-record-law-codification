@@ -6,13 +6,24 @@ Primary data sources are Change Code Manuel and Missouri Revisor.
 
 This is data that is not updated.
 
+- [x] `statute_exceptions` 610.140 Exceptions.  Section 2
+- [x] `exception_codes` Eception Codes: Applies, Possibly Applies, Does Not Apply, Research, Undetermined
+
 ## Create Exceptions for Statute 610.140
 
 Source: manually created data taken from the statute.
 
-Table: exceptions
+Table: `statute_exceptions`
 
-CMD: app-load:make-statute-exceptions
+CMD: app:make-statute-exceptions
+
+## Create Exception Codes, Red, Green, Yellow
+
+Table: `exception_codes`
+
+CMD: records added in migration
+
+# Load source data for laws
 
 ## Import Missouri Laws**
 
