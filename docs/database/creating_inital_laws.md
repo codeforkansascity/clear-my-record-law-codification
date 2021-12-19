@@ -25,7 +25,7 @@ CMD: records added in migration
 
 # Load source data for laws
 
-## Import Missouri Laws**
+## Import Missouri Laws Currne
 
 Source: Missouri Revisor 
 
@@ -33,13 +33,21 @@ Table: `import_mo_revisor_active_sections`
 
 CMD: app:import-mo-revisor-active-sections
 
-## Create Missouri Chapters##
+## Create Missouri Chapters
 
 Source: ImportedMoRevisorActiveSection
 
 Table: LawChapter
 
-## Import 2020 and 2021 Charge Codes
+## Load Missouri list of repealers and transfers(tab delimited). Current
+
+Source: Source: Missouri Revisor
+
+Table:
+
+CMD: 
+
+## Import 2020 and 2021 Charge Codes Current
 
 Source: Charge Code Manule (top)
 
@@ -47,7 +55,7 @@ Table: ImportedMshpChargeCodeManual
 
 CMD: `app:import-charge-code-files`
 
-## Import 2020 and 2021 Charge Codes Ordances
+## Import 2020 and 2021 Charge Codes Ordances Current
 
 Source: Charge Code Manule (bottom)
 
