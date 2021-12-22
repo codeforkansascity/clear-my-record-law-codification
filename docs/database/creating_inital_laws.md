@@ -25,7 +25,7 @@ CMD: records added in migration
 
 # Load source data for laws
 
-## Import Missouri Laws Currne
+## Import Missouri Laws Active
 
 Source: Missouri Revisor 
 
