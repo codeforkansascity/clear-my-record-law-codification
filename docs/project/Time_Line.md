@@ -14,6 +14,8 @@ Suggestions can be emailed to captain@codeforkc.org
 ### 2016 - New longer Charge Code numbers take effect 25-Aug-2016.
 The new numbers are prefixed with the Mo Statute Number
 
+### 2014 - [556.001.  Effective date, criminal code revision. 28-Aug-2014](https://revisor.mo.gov/main/OneSection.aspx?section=556.001&bid=29029&hl=578.407%u2044)
+
 ### 2009 - Charge Code Manual add SOR field
 SOR indicates if the person needs to register on the Sex Offender Registry.
 
