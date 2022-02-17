@@ -2,6 +2,24 @@
 
 Currently a place for software developers, coders, UX, UI, users to put notes and discissions.
 
+We are looking at 610.140.  You should ber aware of the other types of expungements in MO.
+
+
+* DNA Expungement § 650.055, RSMo
+* Actually innocent § 650.058, RSMo
+* Alcohol related convictions § 610.130, RSMo
+* Criminal non-support § 568.040, RSMo & § 210.854, RSMo
+* Identity theft § 610.145, RSMo
+* Arrest records § 610.123, RSMo
+* Mistaken identity § 610.145, RSMo
+* Conviction records § 610.140, RSMo
+* Juvenile Prostitution records involving coercion § 610.131, RSMo
+* Minor in possession § 311.326, RSMo
+
+
+Relevant rule:
+Rule 155
+
 ### Output
 
 In the case of the Clinic App and the conviction was a felony:
