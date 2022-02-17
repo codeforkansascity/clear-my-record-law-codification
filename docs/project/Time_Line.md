@@ -9,6 +9,9 @@ Dates that impact expungements including data avaliability.
 
 Suggestions can be emailed to captain@codeforkc.org
 
+### 2022 - Benton County moved from the 27th circuit to the 30th Circuit.
+Effective on January 1, 2022.
+
 ### 2018 - Re-classification (of statutes?)
 
 ### 2016 - New longer Charge Code numbers take effect 25-Aug-2016.
